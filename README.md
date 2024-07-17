@@ -22,11 +22,7 @@ git clone https://github.com/symbolexe/ShellPass.git
 cd ShellPass
 ```
 
-3. Make the script executable:
-
-```bash
-chmod +x ShellPass.sh
-```
+( this tool hae 777 permission )
 
 ### Usage
 #### Execute the script:
